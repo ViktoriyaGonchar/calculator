@@ -127,7 +127,7 @@ APK будет находиться в `app/build/outputs/apk/release/`
 
 ## 👤 Автор
 
-Разработано для Android Studio Projects
+Made by Viktoriya Gonchar
 
 ## 🔄 Версия
 
